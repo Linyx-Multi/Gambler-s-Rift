@@ -1,0 +1,11 @@
+{
+    "id": "GamblersRift",
+    "name": "Gambler's Rift",
+    "prefix": "Gmba",
+    "main_file": "Gambler.lua",
+    "author": ["Nyxxonial aka Nyxxi"],
+    "description": "A League of Legends based Balatro Mod.",
+    "badge_colour": "0397AB",
+    "version": "0.0.1~"
+
+}
