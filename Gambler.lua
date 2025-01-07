@@ -1,9 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Gambler's Rift
---- MOD_ID: GamblersRift
---- MOD_AUTHOR: [Nyxxonial]
---- MOD_DESCRIPTION: A League of Legends based Balatro Mod.
---- PREFIX: Gmba
 ----------------------------------------------
 ------------MOD CODE -------------------------
 SMODS.Atlas{
@@ -77,7 +71,7 @@ SMODS.Joker {
       }
     },
     config = { extra = { chips = 0, chip_gain = 15 } },
-    rarity = 1,
+    rarity = 2,
     atlas = 'GamblersJokes',
     pos = { x = 0, y = 0 },
     cost = 5,
